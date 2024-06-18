@@ -44,7 +44,7 @@ import CreateTask from "./pages/tasks/create";
 function App() {
   return (
     <BrowserRouter>
-      <GitHubBanner />
+      
       <RefineKbarProvider>
         
           <AntdApp>
