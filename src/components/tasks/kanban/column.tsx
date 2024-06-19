@@ -8,7 +8,7 @@ type Props ={
   id:string,
   title:string,
   description?: React.ReactNode,
-  count: Number,
+  count: number,
   data?:UseDroppableArguments['data'],
   onAddClick?:(args:{ id: string}) => void,
 }
