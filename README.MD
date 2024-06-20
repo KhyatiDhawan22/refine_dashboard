@@ -42,7 +42,9 @@ Refine's hooks and components simplifies the development process and eliminates 
 - Codegen
 - Vite
 <br>
+
 ## Features
+
 **Authentication**: Seamless onboarding with secure login and signup functionalities; robust password recovery ensures a smooth authentication experience.
 
 **Authorization**: Granular access control regulates user actions, maintaining data security and user permissions.
