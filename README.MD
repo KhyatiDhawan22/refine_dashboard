@@ -34,7 +34,7 @@ Refine's hooks and components simplifies the development process and eliminates 
 ```bash
     npm run start
 ```
-
+![Dash_giffy](https://github.com/KhyatiDhawan22/refine_dashboard/assets/112753105/53fc015e-eae8-4457-8564-bbc9cdbb1040)
 ## Learn More
 
 To learn more about **Refine**, please check out the [Documentation](https://refine.dev/docs)
