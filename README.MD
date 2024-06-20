@@ -34,10 +34,7 @@ Refine's hooks and components simplifies the development process and eliminates 
 ```bash
     npm run start
 ```
-##Video Overview
-<div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/FS9LX0pzL7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
 ## Learn More
 
 To learn more about **Refine**, please check out the [Documentation](https://refine.dev/docs)
