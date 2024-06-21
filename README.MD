@@ -1,6 +1,6 @@
 # yummy-kiwis-do
 
-<div align="center" style="margin: 30px;">
+<div align="center" >
     <a href="https://refine.dev">
     <img alt="refine logo" src="https://refine.ams3.cdn.digitaloceanspaces.com/readme/refine-readme-banner.png">
     </a>
