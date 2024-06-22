@@ -4,6 +4,7 @@
 <img src="https://refine.ams3.cdn.digitaloceanspaces.com/example-readmes/CRM-Minimal/minimal-crm-cover.png" alt="Refine Logo"  />
 <br />
 <br />
+</div>
 
 This [Refine](https://github.com/refinedev/refine) project was generated with [create refine-app](https://github.com/refinedev/refine/tree/master/packages/create-refine-app).
 
