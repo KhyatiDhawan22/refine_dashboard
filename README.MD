@@ -60,7 +60,9 @@ Refine's hooks and components simplifies the development process and eliminates 
 
 ## Video Overview
 
-![color_catcher_walkthrough_gif](https://github.com/KhyatiDhawan22/refine_dashboard/assets/112753105/b3120b70-b2d4-4752-8803-40edc09b2a41)
+
+https://github.com/KhyatiDhawan22/refine_dashboard/assets/112753105/0c840b39-8920-4011-85d5-d91bab0bb10d
+
 
 
 ## Learn More
